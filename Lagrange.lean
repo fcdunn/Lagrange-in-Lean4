@@ -1,4 +1,4 @@
--- Import relevant stuff from Mathlib
+-- Import relevant parts of Mathlib
 import Mathlib.Tactic
 import Mathlib.Util.Delaborators
 
